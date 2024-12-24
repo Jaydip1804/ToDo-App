@@ -36,7 +36,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository using GitHub Desktop or Git Bash:
     ```bash
-    git clone https://github.com/SartHak-0-Sach/Todo-app_frontend_project.git
+    git clone https:https://github.com/Jaydip1804/ToDo-App/edit/main/README.md
     ```
 2. Open the project folder in your code editor.
 3. Run the project using a live server extension or deploy it using Netlify, Vercel, or another web hosting and deployment service.
@@ -46,7 +46,7 @@ To set up the project locally, follow these steps:
 ![Design Preview](./design/active-states-dark.jpg)
 
 ### Links
-- Live Site URL: [Live Site](https://todo-list-project-application.netlify.app/)
+- Live Site URL: [Live Site](https://jaydip1804.github.io/ToDo-App/)
 
 ## My process
 
